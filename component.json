@@ -1,0 +1,13 @@
+{
+  "name": "fira-sans-regular-italic",
+  "repo": "typefaces/fira-sans-regular-italic",
+  "description": "The Fira Sans Regular Italic typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-sans-regular-italic.eot",
+    "fonts/fira-sans-regular-italic.ttf",
+    "fonts/fira-sans-regular-italic.woff"
+  ]
+}
